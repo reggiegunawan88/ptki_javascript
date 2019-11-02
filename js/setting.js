@@ -1,0 +1,1 @@
+//inisialisasi semua variabel disini
